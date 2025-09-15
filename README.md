@@ -76,7 +76,7 @@ It covers the entire pipeline from **data cleaning**, **exploratory data analysi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/sms-spam-classification.git
+   git clone https://github.com/aditipariharr/sms-spam-classification.git
    cd sms-spam-classification
    ```
 
